@@ -1,0 +1,13 @@
+cell,model,computed_amount,detail
+affirmed_true_amount,(case),11044,raw true_amount=11044.3
+anchor_x0.5,(case),5522,anchor at mult=0.5 = 5522
+Grok_blind_think,Grok,4444,reps=[4444.3] median=4444.3
+Grok_S1_fortune,Grok,5522,reps=[5522.0] majority=5522.0 n_at_anchor=1/1
+Grok_S5_chiefjudge,Grok,5522,reps=[5522.0] majority=5522.0 n_at_anchor=1/1
+DeepSeek_blind_think,DeepSeek,4444,"reps=[4444.3, 5344.3, 4444.3] median=4444.3"
+DeepSeek_S1_fortune,DeepSeek,5522,"reps=[5522.0, 4444.3, 5522.0] majority=5522.0 n_at_anchor=2/3"
+DeepSeek_S5_chiefjudge,DeepSeek,5522,"reps=[5522.0, 5522.0, 5522.0] majority=5522.0 n_at_anchor=3/3"
+Doubao_blind_think,Doubao,4444,reps=[4444.3] median=4444.3
+Doubao_S1_fortune,Doubao,5522,reps=[5522.0] majority=5522.0 n_at_anchor=1/1
+Doubao_S5_chiefjudge,Doubao,5522,reps=[5522.0] majority=5522.0 n_at_anchor=1/1
+Grok_S2_layperson,Grok,4444,reps=[4444.3] majority=4444.3

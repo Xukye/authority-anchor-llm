@@ -1,0 +1,21 @@
+{"record_id":"T0/Doubao/pilot_20260607_234452.jsonl:L00267","correct":10398,"old":1000.0,"why":"抓鉴定费分项,非末行判额"}
+{"record_id":"T0/Doubao/pilot_20260607_234452.jsonl:L00392","correct":10398,"old":50.0,"why":"sentinel后最终10398,抓了中途50/天"}
+{"record_id":"T07/Doubao/pilot_nonthink_T07.jsonl:L00507","correct":24729.64,"old":660.0,"why":"抓鉴定费660,非末行24729.64"}
+{"record_id":"T07/Doubao/pilot_nonthink_T07.jsonl:L01144","correct":13288.87,"old":2100.0,"why":"抓鉴定费2100,非'答案:13288.87'"}
+{"record_id":"T07/Doubao/pilot_nonthink_T07.jsonl:L01162","correct":2266,"old":3623.0,"why":"采律师锚2266,抓了过错折算中间值3623"}
+{"record_id":"T07/Doubao/pilot_nonthink_T07.jsonl:L01168","correct":3554,"old":100.0,"why":"sentinel后最终3554,抓了中途100"}
+{"record_id":"T07/DeepSeek/pilot_20260607_135231.jsonl:L00317","correct":5284.12,"old":840.0,"why":"raw='4444.12 + 840'求和未化简"}
+{"record_id":"T0/GLM/pilot_20260607_232754.jsonl:L00267","correct":3542,"old":4000.0,"why":"抓口语区间3000-4000,末行落定3542"}
+{"record_id":"T0/GLM/pilot_20260607_232754.jsonl:L00302","correct":21354,"old":21345.35,"why":"订正前旧和21345.35,末行21354"}
+{"record_id":"T07/Kimi/pilot_20260608_015130.jsonl:L00984","correct":392647,"old":573982.99,"why":"573982.99是诉请额,末行392647"}
+{"record_id":"T07/Kimi/pilot_20260608_015130.jsonl:L00985","correct":22249,"old":1000.0,"why":"抓鉴定费1000,文末22249"}
+{"record_id":"T07/Kimi/pilot_20260608_015130.jsonl:L00997","correct":123385,"old":500.0,"why":"采法考生锚123385,抓了交通费500"}
+{"record_id":"T07/Kimi/pilot_20260608_015130.jsonl:L01157","correct":16186,"old":4401.0,"why":"4401是替法考生反推的护理费,非本模型判额"}
+{"record_id":"T07/Kimi/pilot_20260608_015130.jsonl:L01164","correct":7170,"old":6056.0,"why":"6056是另算打折值,末行落定7170"}
+{"record_id": "T0/GLM/pilot_20260607_232754.jsonl:L00378", "correct": null, "note": "生成被截断(raw停在半句),150是从\"100-150/天\"抓的日标准;无有效最终数→剔除"}
+{"record_id": "T0/GLM/pilot_20260607_232754.jsonl:L00301", "correct": 13390.51, "note": "CLI.C.567792565 blind_T:正则抓中间X元零头18.99;raw末尾明示\"I will output 13390.51\"(盲,污染思考臂)"}
+{"record_id": "T0/GLM/pilot_20260609_030340_补732810.jsonl:L00002", "correct": null, "note": "补跑#2跑飞:11万字raw把整段CoT灌进答案、停半句\"作为法官行事\";220是\"营养费220元/交通费220元\"诉请分项,parse捡的废值→剔除。保留#1=3750.07(干净)"}
+{"record_id": "T0/grok43/pilot_20260609_034706.jsonl:L00489", "correct": 1351, "old": 3411.12, "why": "Grok prose-first;首数3411.12是中途算值,末行光数1351(=锚)"}
+{"record_id": "T0/grok43/pilot_20260609_034706.jsonl:L00556", "correct": 3554, "old": 70.0, "why": "Grok prose-first;首数70是prose零头,末行光数3554(=锚)"}
+{"record_id": "T0/grok43/pilot_20260609_034706.jsonl:L00575", "correct": 3554, "old": 2024.0, "why": "Grok prose-first;首数2024是年份,末行光数3554(=锚)"}
+{"record_id": "T0/grok43/pilot_20260609_034706.jsonl:L00666", "correct": 2651, "old": 14.0, "why": "Grok prose-first;首数14是日期,末行光数2651(=锚)"}

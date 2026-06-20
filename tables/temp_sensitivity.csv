@@ -1,0 +1,9 @@
+model,delta_pull_low,delta_pull_high
+Gemini,-10.7,+24.4
+GLM,Not run,Not run
+MiMo,-9.5,+8.4
+Grok,+8.3,+12.1
+Grok (excl. S1),-5.1,+12.1
+Doubao,+27.8,+45.5
+DeepSeek,+23.3,+14.3
+Kimi,-20.4,-2.8

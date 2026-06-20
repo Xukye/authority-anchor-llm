@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the accompanying paper."
+title: "Reproduction Database — When the Thinking Mode Strengthens the Anchor: Authority-Rationalized Anchoring in LLM Legal Judgment"
+abstract: >-
+  Data, analysis code, prompts, and figures reproducing every table and figure in
+  the paper. Toggling thinking mode on/off across seven deployed LLMs on a Chinese
+  civil personal-injury damages task, adoption of an authority-tagged numerical
+  anchor changes monotonically with source credibility; three vendors' models cross
+  zero (thinking debiases a fortune-teller anchor and amplifies a chief-judge anchor).
+authors:
+  - name: "Anonymized for double-blind review"
+keywords:
+  - large language models
+  - anchoring bias
+  - reasoning / test-time thinking
+  - legal judgment
+  - authority bias
+license: MIT
+date-released: 2026-06-21

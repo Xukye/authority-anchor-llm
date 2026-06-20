@@ -1,0 +1,8 @@
+row,framing,mult,anchor,output,pull
+No anchor (blind),,,,5322.0,
+Fortune teller S1,GN,0.5,2237,4772.0,0.1783
+Law student S3*,E1,0.5,2237,2237.0,1.0
+Lawyer S4a,GL5,0.5,2237,2237.0,1.0
+Professor S4b,G4,0.5,2237,2237.0,1.0
+Chief judge S5 x0.5,G5,0.5,2237,2237.0,1.0
+Chief judge S5 x2,G5,2.0,8949,8949.0,1.0

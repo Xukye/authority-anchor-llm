@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="381.634219pt" height="26.487031pt" viewBox="0 0 381.634219 26.487031" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-06-11T22:20:58.217020</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 26.487031 
+L 381.634219 26.487031 
+L 381.634219 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="legend_1">
+   <g id="line2d_1">
+    <path d="M 10 12.645781 
+L 17 12.645781 
+L 24 12.645781 
+" style="fill: none; stroke: #005ab5; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="29.6" y="15.095781" transform="rotate(-0 29.6 15.095781)">Gemini</text>
+   </g>
+   <g id="line2d_2">
+    <path d="M 65.771406 12.645781 
+L 72.771406 12.645781 
+L 79.771406 12.645781 
+" style="fill: none; stroke: #d55e00; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="85.371406" y="15.095781" transform="rotate(-0 85.371406 15.095781)">GLM</text>
+   </g>
+   <g id="line2d_3">
+    <path d="M 114.539531 12.645781 
+L 121.539531 12.645781 
+L 128.539531 12.645781 
+" style="fill: none; stroke: #009e73; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="134.139531" y="15.095781" transform="rotate(-0 134.139531 15.095781)">MiMo</text>
+   </g>
+   <g id="line2d_4">
+    <path d="M 165.249063 12.645781 
+L 172.249063 12.645781 
+L 179.249063 12.645781 
+" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #3f4858; stroke-width: 1.5"/>
+    <defs>
+     <path id="me838c1343c" d="M -3 3 
+L 3 -3 
+M -3 -3 
+L 3 3 
+" style="stroke: #3f4858"/>
+    </defs>
+    <g>
+     <use xlink:href="#me838c1343c" x="172.249063" y="12.645781" style="fill: #3f4858; stroke: #3f4858"/>
+    </g>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="184.849063" y="15.095781" transform="rotate(-0 184.849063 15.095781)">Grok</text>
+   </g>
+   <g id="line2d_5">
+    <path d="M 214.017188 12.645781 
+L 221.017188 12.645781 
+L 228.017188 12.645781 
+" style="fill: none; stroke-dasharray: 4.255,1.84; stroke-dashoffset: 0; stroke: #c79ab6; stroke-opacity: 0.65; stroke-width: 1.15"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="233.617188" y="15.095781" transform="rotate(-0 233.617188 15.095781)">Doubao</text>
+   </g>
+   <g id="line2d_6">
+    <path d="M 272.135781 12.645781 
+L 279.135781 12.645781 
+L 286.135781 12.645781 
+" style="fill: none; stroke-dasharray: 4.255,1.84; stroke-dashoffset: 0; stroke: #91bfe3; stroke-opacity: 0.65; stroke-width: 1.15"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="291.735781" y="15.095781" transform="rotate(-0 291.735781 15.095781)">DeepSeek</text>
+   </g>
+   <g id="line2d_7">
+    <path d="M 338.423594 12.645781 
+L 345.423594 12.645781 
+L 352.423594 12.645781 
+" style="fill: none; stroke-dasharray: 4.255,1.84; stroke-dashoffset: 0; stroke: #b2a071; stroke-opacity: 0.65; stroke-width: 1.15"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="358.023594" y="15.095781" transform="rotate(-0 358.023594 15.095781)">Kimi</text>
+   </g>
+  </g>
+ </g>
+</svg>

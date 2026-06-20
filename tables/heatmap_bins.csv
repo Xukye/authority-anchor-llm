@@ -1,0 +1,71 @@
+model,tier,mode,n,<-.15,"[-0.15,-0.05)","[-0.05,0.05)","[0.05,0.15)","[0.15,0.25)","[0.25,0.35)","[0.35,0.45)","[0.45,0.55)","[0.55,0.65)","[0.65,0.75)","[0.75,0.85)","[0.85,0.95)","[0.95,1.05)","[1.05,1.15)",>=1.15
+Gemini,Fortune,non,30,0,1,10,4,4,2,0,1,1,0,1,1,5,0,0
+Gemini,Fortune,think,30,5,0,13,1,5,1,0,2,0,1,0,0,2,0,0
+Gemini,Layperson,non,30,0,0,6,6,2,2,2,3,1,0,2,0,6,0,0
+Gemini,Layperson,think,30,5,0,8,3,1,3,0,2,1,2,0,0,5,0,0
+Gemini,Law student,non,30,0,0,3,5,4,1,1,4,2,0,0,1,9,0,0
+Gemini,Law student,think,30,2,0,8,1,0,2,2,2,2,0,0,0,11,0,0
+Gemini,Expert,non,30,0,0,2,3,3,1,1,4,2,1,0,0,13,0,0
+Gemini,Expert,think,30,0,1,1,0,1,0,0,2,1,1,1,0,22,0,0
+Gemini,Chief judge,non,30,0,0,2,1,1,1,2,3,3,0,0,1,16,0,0
+Gemini,Chief judge,think,30,0,1,1,0,0,0,1,1,0,0,0,0,26,0,0
+GLM,Fortune,non,30,1,0,6,4,0,0,1,1,1,1,2,0,13,0,0
+GLM,Fortune,think,30,3,1,16,1,1,1,0,0,1,0,0,0,4,0,2
+GLM,Layperson,non,30,1,0,5,2,0,0,1,1,1,0,1,0,18,0,0
+GLM,Layperson,think,30,5,1,12,0,0,0,1,1,3,0,1,0,6,0,0
+GLM,Law student,non,30,0,0,3,1,0,0,0,0,2,0,1,0,23,0,0
+GLM,Law student,think,30,1,0,10,2,0,0,0,0,1,0,0,0,13,1,2
+GLM,Expert,non,30,0,0,1,1,0,0,0,1,1,0,2,0,24,0,0
+GLM,Expert,think,30,0,0,1,1,0,0,0,1,1,0,1,0,25,0,0
+GLM,Chief judge,non,30,0,0,0,1,0,0,0,0,1,0,0,0,28,0,0
+GLM,Chief judge,think,30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0
+MiMo,Fortune,non,30,1,0,8,0,0,0,0,2,0,0,1,0,18,0,0
+MiMo,Fortune,think,30,2,1,7,1,2,3,1,1,2,1,0,0,8,1,0
+MiMo,Layperson,non,30,1,0,4,0,0,0,0,0,0,0,0,0,25,0,0
+MiMo,Layperson,think,30,1,0,3,1,0,0,1,0,1,0,0,0,23,0,0
+MiMo,Law student,non,30,0,0,0,1,0,0,0,0,0,0,0,0,29,0,0
+MiMo,Law student,think,30,0,0,1,0,0,0,0,0,1,0,0,0,28,0,0
+MiMo,Expert,non,30,0,0,1,1,0,0,0,1,0,0,0,0,27,0,0
+MiMo,Expert,think,30,0,0,0,0,0,0,0,1,0,0,0,0,29,0,0
+MiMo,Chief judge,non,30,0,0,1,1,0,0,0,0,0,0,0,0,28,0,0
+MiMo,Chief judge,think,30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0
+Grok,Fortune,non,30,1,0,17,0,0,1,0,0,0,1,0,2,7,0,1
+Grok,Fortune,think,30,2,1,10,0,0,0,0,0,0,0,0,0,17,0,0
+Grok,Layperson,non,30,0,0,5,0,0,1,0,0,0,0,0,1,23,0,0
+Grok,Layperson,think,30,0,1,10,1,0,0,0,0,0,0,0,0,18,0,0
+Grok,Law student,non,30,0,0,2,0,0,0,0,0,0,0,0,1,27,0,0
+Grok,Law student,think,30,0,0,1,0,0,0,0,0,0,0,0,0,29,0,0
+Grok,Expert,non,30,0,0,3,0,0,1,0,0,0,0,0,0,26,0,0
+Grok,Expert,think,30,0,0,0,0,0,0,0,1,0,0,0,0,29,0,0
+Grok,Chief judge,non,30,0,0,1,0,0,1,0,0,0,0,0,0,28,0,0
+Grok,Chief judge,think,30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0
+Doubao,Fortune,non,30,6,0,13,4,0,2,1,1,0,0,0,1,2,0,0
+Doubao,Fortune,think,30,2,0,9,3,4,1,1,3,1,0,0,0,6,0,0
+Doubao,Layperson,non,30,11,0,7,2,4,0,1,0,0,1,1,2,1,0,0
+Doubao,Layperson,think,30,0,0,7,4,0,2,1,1,0,0,0,0,15,0,0
+Doubao,Law student,non,30,4,0,6,2,0,0,1,2,0,1,0,0,14,0,0
+Doubao,Law student,think,30,0,0,2,1,0,0,0,0,0,0,0,0,27,0,0
+Doubao,Expert,non,30,5,1,6,1,2,2,1,2,0,1,0,0,9,0,0
+Doubao,Expert,think,30,0,0,1,1,0,0,0,0,0,0,0,0,28,0,0
+Doubao,Chief judge,non,30,1,0,6,3,1,1,1,0,1,0,0,1,15,0,0
+Doubao,Chief judge,think,30,0,0,1,0,0,0,0,0,0,0,0,0,29,0,0
+DeepSeek,Fortune,non,30,1,0,12,0,0,0,0,0,0,0,0,1,16,0,0
+DeepSeek,Fortune,think,30,0,0,4,0,0,0,0,1,1,1,0,1,22,0,0
+DeepSeek,Layperson,non,30,0,0,12,0,0,0,0,0,0,0,0,1,17,0,0
+DeepSeek,Layperson,think,30,0,0,0,2,0,3,0,0,0,1,1,1,22,0,0
+DeepSeek,Law student,non,30,0,0,8,0,0,0,0,0,0,0,0,1,21,0,0
+DeepSeek,Law student,think,30,0,0,0,0,0,0,1,1,1,3,0,1,23,0,0
+DeepSeek,Expert,non,30,0,0,3,0,0,1,0,2,0,0,0,0,24,0,0
+DeepSeek,Expert,think,30,0,0,0,0,0,0,0,1,0,0,2,2,24,0,1
+DeepSeek,Chief judge,non,30,0,0,2,0,0,0,0,0,0,0,0,0,28,0,0
+DeepSeek,Chief judge,think,30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0
+Kimi,Fortune,non,30,2,0,2,2,1,3,0,1,2,0,3,2,11,1,0
+Kimi,Fortune,think,30,1,0,5,1,3,4,6,0,2,5,2,0,1,0,0
+Kimi,Layperson,non,30,0,0,1,1,0,1,0,1,0,0,0,0,26,0,0
+Kimi,Layperson,think,30,0,0,0,0,0,1,5,1,3,5,2,3,10,0,0
+Kimi,Law student,non,30,0,0,1,0,0,0,0,0,0,0,2,0,27,0,0
+Kimi,Law student,think,30,0,0,0,0,0,0,3,0,0,4,2,2,19,0,0
+Kimi,Expert,non,30,0,0,1,0,0,0,0,0,0,0,1,3,25,0,0
+Kimi,Expert,think,30,0,0,1,0,0,0,1,0,0,0,5,6,17,0,0
+Kimi,Chief judge,non,30,0,0,1,0,0,0,0,0,1,0,1,0,27,0,0
+Kimi,Chief judge,think,30,0,0,1,0,0,0,0,0,1,1,1,0,26,0,0
